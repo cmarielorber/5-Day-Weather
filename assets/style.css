@@ -1,28 +1,29 @@
-.search-column{
-    background-color:	#D3D3D3;
+.search-column {
+    background-color: #D3D3D3;
 }
 
-.list-group-item{
+.list-group-item {
     line-height: 0.5;
     border: none;
 }
-.card-body{
-    flex:auto
+
+.card-body {
+    flex: auto
 }
 
-span.severe{
+span.severe {
     padding: 3px;
     background-color: red;
-    color:white;
+    color: white;
 }
 
-span.moderate{
+span.moderate {
     padding: 3px;
     background-color: yellow;
 }
 
-span.favorable{
+span.favorable {
     padding: 3px;
     background-color: green;
-    color:white;
+    color: white;
 }
