@@ -4,7 +4,7 @@ Week 6-Server Side API's
 
 ## Description
 
-This week we were to create a personal Weather Dashboard. The Dashboard provides the used with a 5-Day weather report for their desired destination. The city is then stored on the page, using local storage, and can be revisted when "clicked". OpenWeather API was used to retrieve the weather data for the cities. 
+This week we were to create a personal Weather Dashboard. The Dashboard provides the user with a 5-Day weather report for their desired destination. The city is then stored on the page, using local storage, and can be revisted when "clicked". OpenWeather API was used to retrieve the weather data for the cities. 
 
 ## Tech UsedTable of Contents
 
@@ -48,6 +48,8 @@ WHEN I open the weather dashboard
 THEN I am presented with the last searched city forecast
 
 ## Demo
+
+[5-Day Dashboard.webm](https://user-images.githubusercontent.com/109984761/200152087-dc5ce4ce-ae0f-4cf5-b69e-146980f460e3.webm)
 
 ## Links
 
