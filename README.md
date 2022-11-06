@@ -55,5 +55,6 @@ THEN I am presented with the last searched city forecast
 
 https://cmarielorber.github.io/5-Day-Weather/
 
-##Credits
+## Credits
+
 Bootcamp Team and askBCS and Classmates and Google
