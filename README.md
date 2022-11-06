@@ -43,10 +43,6 @@ WHEN I click on a city in the search history
 
 THEN I am again presented with current and future conditions for that city
 
-WHEN I open the weather dashboard
-
-THEN I am presented with the last searched city forecast
-
 ## Demo
 
 [5-Day Dashboard.webm](https://user-images.githubusercontent.com/109984761/200152087-dc5ce4ce-ae0f-4cf5-b69e-146980f460e3.webm)
