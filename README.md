@@ -9,9 +9,13 @@ This week we were to create a personal Weather Dashboard. The Dashboard provides
 ## Tech UsedTable of Contents
 
 Open weather current & 5 day forecast API's: https://openweathermap.org/api
+
 Bootstrap: https://getbootstrap.com/
+
 Moment.js: https://momentjs.com/
+
 JQuery
+
 JS
 
 
