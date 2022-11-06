@@ -7,6 +7,11 @@ const forecastTitle = document.querySelector("#forecast");
 const forecastContainerEl = document.querySelector("#fiveday-container");
 const pastSearchButtonEl = document.querySelector("#past-search-buttons");
 
+// $(window).on('load', function () {
+//     currentLocation();
+//     checkLocalStorage();
+// });
+
 const formSumbitHandler = function (event) {
     event.preventDefault();
     let city = cityInputEl.value.trim();
